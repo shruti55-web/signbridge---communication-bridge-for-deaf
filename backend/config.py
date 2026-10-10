@@ -1,0 +1,4 @@
+
+SUPABASE_URL = "https://objwfboldhhxygbqbfcx.supabase.co"
+
+SUPABASE_KEY="eeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9iandmYm9sZGhoeHlnYnFiZmN4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2ODg4MzU0MiwiZXhwIjoyMDg0NDU5NTQyfQ.NqHo0_i2icx1rKTWWKhSILBpjE9lW1QndwFDmCl22W0"
